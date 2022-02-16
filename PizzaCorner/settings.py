@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y-u-87y&3l!kuz*x6p=ook6^i@38451d6zm5ulc#*gbqdq_wl5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['pizza-corner-1.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['pizza-corner1.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
